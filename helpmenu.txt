@@ -1,0 +1,6 @@
+%play - plays audio from a youtube link 
+%pause - pauses current audio playing
+%unpause - resumes playing audio
+%skip - skip current audio
+%leave - bot leaves voice channel
+%help - prints help menu
